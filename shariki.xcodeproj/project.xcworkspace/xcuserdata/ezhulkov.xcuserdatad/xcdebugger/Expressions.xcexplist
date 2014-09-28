@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GameLayer turnPacmanRight]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lowerPacman.rotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer ccTouchEnded:withEvent:]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[lowerMoveAction isDone]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BallAddTime apply]:BallAddTime.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.opacity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer ccTouchesBegan:withEvent:]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "abs(scaledScene.x - pacman.position.x)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer ccTouchBegan:withEvent:]:GameLayer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer nextFrame:]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "speedThreshold-acceleration">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BallRotate apply]:BallRotate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameLayer.rotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer init]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lowerPacman.anchorPoint.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer generateRow]:GameLayer.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
